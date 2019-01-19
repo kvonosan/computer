@@ -1,0 +1,265 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jl-like-pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-04 14:34+0200\n"
+"PO-Revision-Date: 2016-01-04 14:34+0200\n"
+"Last-Translator: Arkadiy <a.sedelnikov@gmail.com>\n"
+"Language-Team: joomline.org <support@joomline.org>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/functions.php:63 includes/functions.php:64
+msgid "JL Like Pro"
+msgstr "JL Like Pro"
+
+#: includes/functions.php:85
+msgid "Error Load Template"
+msgstr "Ошибка загрузки шаблона"
+
+#: includes/functions.php:117
+msgid "Settings saved"
+msgstr "Настройки сохранены"
+
+#: includes/functions.php:211 includes/functions.php:222
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/functions.php:223
+msgid "http://joomline.net/forum/plugins-wordpress.html"
+msgstr "http://joomline.net/ru/forum/plugins-wordpress.html"
+
+#: includes/functions.php:223
+msgid "Support"
+msgstr "Поддержка"
+
+#: includes/helper.php:100
+msgid "Facebook"
+msgstr "Фейсбук"
+
+#: includes/helper.php:101
+msgid "VKontacte"
+msgstr "ВКонтакте"
+
+#: includes/helper.php:102
+msgid "Twitter"
+msgstr "Твиттер"
+
+#: includes/helper.php:103
+msgid "Odnoklassniki"
+msgstr "Одноклассники"
+
+#: includes/helper.php:104
+msgid "Google +"
+msgstr "Google +"
+
+#: includes/helper.php:105
+msgid "Mail.ru"
+msgstr "Мой Мир"
+
+#: includes/helper.php:106
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: includes/helper.php:107
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: includes/helper.php:108
+msgid "All Likes counter"
+msgstr "Общий счетчик"
+
+#: tmpl/adminform.php:5
+msgid "JL LikePro Settings"
+msgstr "Настройки JL LikePro"
+
+#: tmpl/adminform.php:22
+msgid ""
+"You went into the settings plugin JL Like PRO - social plug buttons for "
+"WordPress."
+msgstr ""
+"Вы зашли в настройки плагина JL Like PRO - плагина социальных кнопок для "
+"WordPress."
+
+#: tmpl/adminform.php:23
+msgid "To display on the shortcode you can use the tag"
+msgstr "Для вывода по shortcode вы можете использовать тег"
+
+#: tmpl/adminform.php:24
+msgid "Developer"
+msgstr "Разработано"
+
+#: tmpl/adminform.php:24
+msgid "http://joomline.org/wordpress/395-wllikepro.html"
+msgstr "http://joomline.ru/wordpress/629-wllikepro.html"
+
+#: tmpl/adminform.php:39
+msgid "Enable Facebook"
+msgstr "Разрешить Facebook"
+
+#: tmpl/adminform.php:52
+msgid "Enable VKontakte"
+msgstr "Разрешить VKontakte"
+
+#: tmpl/adminform.php:65
+msgid "Enable Twitter"
+msgstr "Разрешить Твиттер"
+
+#: tmpl/adminform.php:78
+msgid "Enable Odnoclassniki"
+msgstr "Разрешить Одноклассники"
+
+#: tmpl/adminform.php:91
+msgid "Enable Google +"
+msgstr "Разрешить Google +"
+
+#: tmpl/adminform.php:104
+msgid "Enable Mail.ru"
+msgstr "Разрешить Мой Мир"
+
+#: tmpl/adminform.php:117
+msgid "Enable LinkedIn"
+msgstr "Разрешить LinkedIn"
+
+#: tmpl/adminform.php:130
+msgid "Enable Pinterest"
+msgstr "Разрешить Pinterest"
+
+#: tmpl/adminform.php:143
+msgid "Enable All Counter"
+msgstr "Разрешить общий счетчик"
+
+#: tmpl/adminform.php:168
+msgid "jQuery load"
+msgstr "Загружать jQuery"
+
+#: tmpl/adminform.php:181
+msgid "Buttons Alignment"
+msgstr "Выравнивание кнопок"
+
+#: tmpl/adminform.php:186
+msgid "Left"
+msgstr "Лево"
+
+#: tmpl/adminform.php:188
+msgid "Right"
+msgstr "Право"
+
+#: tmpl/adminform.php:194
+msgid "Buttons Location"
+msgstr "Расположение кнопок"
+
+#: tmpl/adminform.php:199
+msgid "Before"
+msgstr "Перед"
+
+#: tmpl/adminform.php:201
+msgid "After"
+msgstr "После"
+
+#: tmpl/adminform.php:203
+msgid "Shortcode"
+msgstr "Короткий код"
+
+#: tmpl/adminform.php:209
+msgid "Allow in Category"
+msgstr "Разрешить в категории"
+
+#: tmpl/adminform.php:222
+msgid "Disable_more_likes"
+msgstr "Запретить больше одного лайка"
+
+#: tmpl/adminform.php:235
+msgid "Enable opengraph"
+msgstr "Разрешить opengraph"
+
+#: tmpl/adminform.php:248
+msgid "Type of transmission"
+msgstr "Тип передачи"
+
+#: tmpl/adminform.php:253
+msgid "File Get Contents"
+msgstr "File Get Contents"
+
+#: tmpl/adminform.php:255
+msgid "curl"
+msgstr "curl"
+
+#: tmpl/adminform.php:261
+msgid "Domen"
+msgstr "Домен"
+
+#: tmpl/adminform.php:266
+msgid "Without www"
+msgstr "С www"
+
+#: tmpl/adminform.php:268
+msgid "With www"
+msgstr "Без www"
+
+#: tmpl/adminform.php:274
+msgid "Description one source"
+msgstr "Первый источник описания"
+
+#: tmpl/adminform.php:279 tmpl/adminform.php:292
+msgid "Description"
+msgstr "Краткое описание"
+
+#: tmpl/adminform.php:281 tmpl/adminform.php:294
+msgid "Full text"
+msgstr "Полное описание"
+
+#: tmpl/adminform.php:287
+msgid "Description two source"
+msgstr "Второй источник описания"
+
+#: tmpl/adminform.php:300
+msgid "Text before buttons"
+msgstr "Текст перед кнопками"
+
+#: tmpl/adminform.php:312
+msgid "Buttons contayner"
+msgstr "Контейнер кнопок"
+
+#: tmpl/adminform.php:324
+msgid "Buttons parent contayner"
+msgstr "Родительский контейнер кнопок"
+
+#: tmpl/adminform.php:336
+msgid "Image Source"
+msgstr "Источник изображений"
+
+#: tmpl/adminform.php:341
+msgid "Text"
+msgstr "Текст"
+
+#: tmpl/adminform.php:343
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+#: tmpl/adminform.php:349
+msgid "Default Image"
+msgstr "Изображение по умолчанию"
+
+#: tmpl/adminform.php:375
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#~ msgid "Enable Yandex"
+#~ msgstr "Разрешить Яндекс"
+
+#~ msgid "Yandex"
+#~ msgstr "Яндекс"
+
+#~ msgid "FAQ"
+#~ msgstr "ЧаВо"
+
+#~ msgid "Before and After"
+#~ msgstr "Перед и после"

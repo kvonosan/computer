@@ -1,0 +1,108 @@
+# Translation of Plugins - Kama WP Smiles - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Kama WP Smiles - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-22 18:51:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Kama WP Smiles - Development (trunk)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://wp-kama.ru/"
+msgstr "http://wp-kama.ru/"
+
+#. Author of the plugin/theme
+msgid "Kama"
+msgstr "Kama"
+
+#. Description of the plugin/theme
+msgid "Replace WP smilies. You can easily set your own package of smiles or select preferred from existing list."
+msgstr "Заменяет смайлики WP. Добавляет блок смайликов в форму комментирвоания. Легко можно установить свой комплект смайликов."
+
+#. Plugin URI of the plugin/theme
+msgid "http://wp-kama.ru/?p=18"
+msgstr "http://wp-kama.ru/?p=18"
+
+#. Plugin Name of the plugin/theme
+msgid "Kama WP Smiles"
+msgstr "Kama WP Smiles"
+
+#: admin/admin-page.php:136
+msgid "Are you sure?"
+msgstr "Уверенны?"
+
+#: admin/admin-page.php:136
+msgid "Reset options to default"
+msgstr "Сбросить настройки на начальные"
+
+#: admin/admin-page.php:135
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: admin/admin-page.php:126
+msgid "Add here your css styles to change output. This styles will be added after default one."
+msgstr "Допишите здесь имеющиеся стили, чтобы настроить вывод под себя. Эти стили будут добавлены после дефолтных."
+
+#: admin/admin-page.php:125
+msgid "Additional CSS styles."
+msgstr "Дополнительные CSS стили."
+
+#: admin/admin-page.php:114
+msgid "Download smiles packs:"
+msgstr "Скачать пакеты смайликов:"
+
+#: admin/admin-page.php:113
+msgid "To add your own smiley pack, create folder %s in WP plugins folder (next to the plugin folder) and insert in it your folder (pack) with smiles"
+msgstr "Чтобы добавить свой пакет смайликов, создайте папку %s в папке плагинов WP (рядом с папкой этого плагина) и добавьте туда свой пакет смайлов."
+
+#: admin/admin-page.php:111
+msgid "Smiley complect (pack)."
+msgstr "Комплект смайликов."
+
+#: admin/admin-page.php:82
+msgid "Wrapper tags for smiley name in content. Default:"
+msgstr "Обертки для названий смайликов в тексте. По умолчанию:"
+
+#: admin/admin-page.php:81
+msgid "Open and close tags."
+msgstr "Открыавющий и закрывающий теги."
+
+#: admin/admin-page.php:71
+msgid "Specify smile code that will be used in the text and the name of the corresponding smiley. The smiley name see above (when you hover any smiley)."
+msgstr "Укажите обозначение, которое будет использоваться в тексте и название смайлика на который обозначение будет заменено. Название смотрите выше (при наведении на смайлик)."
+
+#: admin/admin-page.php:69
+msgid "Mark (name) for special smiles."
+msgstr "Специальные обозначения смайликов."
+
+#: admin/admin-page.php:56
+msgid "Specify HTML tags (comma separated) content of which the plugin must skip from process of finding smiles. Example:"
+msgstr "Укажите название HTML тегов (через запятую), содержание которых не нужно обрабатывать. Например:"
+
+#: admin/admin-page.php:55
+msgid "HTML tags exceptions."
+msgstr "HTML теги исключения."
+
+#: admin/admin-page.php:47
+msgid "ID attribute of textarea tag. Leave the field empty, in order ask the plugin to NOT automatically insert smiles block. And use this code: %s in your comment form. This code print list of available smiles (see just after heading of this page)."
+msgstr "Атирубт id HTML тега textarea. Оставьте поле пустым, чтобы плагин не пытался автоматически встроить смайлики и используйте php код: %s в форме комментирвоания. Этот код выводит список смайликов (выглядит как под заголовком этой страницы)."
+
+#: admin/admin-page.php:45
+msgid "Comment field ID"
+msgstr "ID поля комментирования."
+
+#: admin/admin-page.php:27
+msgid "example"
+msgstr "пример"
+
+#: admin/admin-page.php:14
+msgid "Selected (sort by drag and drop)"
+msgstr "Выбранные смайлики (можно сортировать перетаскиванием):"
+
+#: admin/admin-page.php:5 class.Kama_WP_Smiles_Admin.php:33
+msgid "Kama WP Smiles Settings"
+msgstr "Настройки Kama WP Smiles"
